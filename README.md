@@ -1,6 +1,6 @@
 # Implementation and Complexity Analysis of Classical Ciphers
 
-## Implementation of ceasar cipher, substitution cipher, affine cipher and Vigenere cipher in python. 
+## Ceasar cipher, substitution cipher, affine cipher and Vigenere cipher implemented in python. 
 
 The following key components of each cipher are covered:
 
