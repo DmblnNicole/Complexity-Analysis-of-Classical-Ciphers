@@ -11,6 +11,6 @@ The following key components of each cipher are covered:
 - known attacks
 - complexity analysis
 
-
+Created together with [Armin Puran Youssef](https://github.com/Space-Dream-42).
 
 
